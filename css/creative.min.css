@@ -10,6 +10,14 @@
    color: white;
  }
 
+.space {
+  margin-top: 20px;
+}
+
+.lesspace {
+  margin-top: -20px;
+}
+
 
  h1 {
    font-family: 'IBM Plex Sans';
@@ -57,3 +65,12 @@ h5{
    line-height: 80%;
    font-weight: 300;
  }
+
+ .bg-black {
+     background-color: black !important; }
+ }
+
+.section-footer {
+  padding-top: -20px;
+  padding-bottom: -20px;
+}
