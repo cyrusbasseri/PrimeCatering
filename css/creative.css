@@ -127,6 +127,7 @@ body {
   #mainNav .navbar-nav > li.nav-item > a.nav-link,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
     font-size: .9rem;
+    font-family: 'IBM Plex Sans';
     font-weight: 700;
     text-transform: uppercase;
     color: white; }
